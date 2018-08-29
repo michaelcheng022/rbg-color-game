@@ -76,6 +76,6 @@ button:hover {
 }
 
 .selected {
-    background: inherit;
+    background: steelblue;
     color: white;
 }
